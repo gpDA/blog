@@ -1,0 +1,11 @@
+baseurl = "https://gpda.github.io"
+title = "Hugo Themes - aether"
+author = "Joe Hutchinson"
+canonifyurls = true
+paginate = 3
+theme = "aether"
+
+[params]
+brand = "aether"
+description = "aether Hugo theme for blogs"
+bgimg = "img/ignasi_pattern_s.png"

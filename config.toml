@@ -1,0 +1,12 @@
+baseurl = "https://gpda.github.io"
+languageCode = "en-us"
+title = "GP's"
+author = "GeonPyung (GP) Lee"
+canonifyurls = true
+paginate = 4
+theme = "aether"
+
+[params]
+brand = "GP's"
+description = "GP's"
+bgimg = "img/ignasi_pattern_s.png"
